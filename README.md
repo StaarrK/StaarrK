@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=staarrk&label=Profile%20views&color=0e75b6&style=plastic" alt="staarrk" /> </p>
 
-- 🔭 I’m currently working on **FLTetris**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **C, C++, C#, Java, HTML, JS, CSS, Python, Lua and PHP**
 
-- 👯 I’m looking to collaborate on **C projects**
+- 👯 I’m looking to collaborate on **Java, Python and C projects**
 
-- 🤝 I’m looking for help with **C projects too**
+- 🤝 I’m looking for help with **C projects**
 
 - 👨‍💻 All of my projects are available at [http://starrk.xyz/portfolio/index.html](http://starrk.xyz/portfolio/index.html)
 
